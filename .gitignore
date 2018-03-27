@@ -2,6 +2,12 @@
 .Rhistory
 .Rapp.history
 
+#Output Files
+output
+
+#API Keys
+*.key
+
 # Session Data files
 .RData
 
